@@ -6,5 +6,11 @@
 ## Archivos (Modificados, Creados, Eliminados): Creados ejercicio02.html, ejercicio02.js, serviceEjercicio02.js
 ## Uso IA: No. Sí: cómo copiloto (interacción), autogeneración IA (no hay interacción), evaluación (yo paso código)
 
+# Jose Quispe
+## Ejercicio 03 Proyecto 03 JS que están haciendo
+## Se creo un html basico
+## Archivos (Modificados, Creados, Eliminados): Creados ejercicio02.html, ejercicio02.js, serviceEjercicio02.js
+## Uso IA: No. Sí: cómo copiloto (interacción), autogeneración IA (no hay interacción), evaluación (yo paso código)
+
 # Gustavo Sosa
 ## Nuevos cambios
