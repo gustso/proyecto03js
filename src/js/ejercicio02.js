@@ -15,3 +15,9 @@ formulario.addEventListener('submit', (evento) => {
     mostrarDatos(listaEstudiantes, contenedorEstudiantes);
 
 });
+
+// legal propiedad intelectual uso de datos personal tratamiento de datos sensibles
+
+// etica responsabilidad citar las fuentes
+
+// tecnica tratamiento de errores tokens
